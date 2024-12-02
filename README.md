@@ -1,5 +1,4 @@
-Shrenik Chandra
-👋 Hello, World! I'm Shrenik Chandra, an aspiring tech enthusiast and learner exploring the vast field of programming and cybersecurity.
+Shrenik Chandra                                                                                                                                                                                                                                👋 Hello, World! I'm Shrenik Chandra, an aspiring tech enthusiast and learner exploring the vast field of programming and cybersecurity.
  
 🚀 About Me
 Currently Learning:
