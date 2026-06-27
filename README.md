@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Shrenik, a student from India 🇮🇳 aiming to be suc
+I'm Shrenik, a student from India 🇮🇳
 
 Currently in Class 11 and leveling up my skills every day.
 
