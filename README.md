@@ -28,7 +28,7 @@ If I think of something interesting, chances are I'll try to build it 💻
 
 ## 📌 Fun facts
 
-* I like tech (Robitics to be specific) + building random stuff
+* I like tech (Robotics to be specific) + building random stuff
 * Trying to balance "Things"
 * Learning something new every single day
 
